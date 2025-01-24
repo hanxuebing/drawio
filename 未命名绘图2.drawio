@@ -1,9 +1,298 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="HP8-yMR21OmT8s3nGg3-">
-    <mxGraphModel>
+    <mxGraphModel dx="3217" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oYOYngX_mJQu14mk90Mx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-9" target="oYOYngX_mJQu14mk90Mx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-21" target="oYOYngX_mJQu14mk90Mx-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="410" />
+              <mxPoint x="205" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-4" target="oYOYngX_mJQu14mk90Mx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="40" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-5" value="标题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="70" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-6" value="首页" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-117.5" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-7" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="40" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-8">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-10" value="-------------------------------------------------------------------------------------------------------------------------------------------------------正文-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-8">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-11" value="配图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-8">
+          <mxGeometry x="70" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-12" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="460" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-13">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-15" value="-------------------------------------------------------------------------------------------------------------------------------------------------------正文-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-13">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-16" value="配图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-13">
+          <mxGeometry x="70" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-17" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-18" value="第一个百科" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-19" value="第二个百科" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="40" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-23" value="第一个课后题" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="100" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-24" value="答对得1分&lt;div&gt;答错或者跳过得0分&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="190" y="135" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="30" y="55" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oYOYngX_mJQu14mk90Mx-20" source="oYOYngX_mJQu14mk90Mx-27" target="oYOYngX_mJQu14mk90Mx-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="85" />
+              <mxPoint x="120" y="155" />
+              <mxPoint x="83" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-27" value="问题？&lt;div&gt;A:XXX&lt;/div&gt;&lt;div&gt;B:XXX&lt;/div&gt;&lt;div&gt;C:XXX&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-28" value="答题结果：是否正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="26.25" y="210" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-29" value="触摸选择选项" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-20">
+          <mxGeometry x="30" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="460" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-33" value="第二个课后题" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="100" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-34" value="答对得1分&lt;div&gt;答错或者跳过得0分&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="190" y="135" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="30" y="55" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oYOYngX_mJQu14mk90Mx-30" source="oYOYngX_mJQu14mk90Mx-37" target="oYOYngX_mJQu14mk90Mx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="85" />
+              <mxPoint x="120" y="155" />
+              <mxPoint x="83" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-37" value="问题？&lt;div&gt;A:XXX&lt;/div&gt;&lt;div&gt;B:XXX&lt;/div&gt;&lt;div&gt;C:XXX&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-38" value="答题结果：是否正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="26.25" y="210" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-39" value="触摸选择选项" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-30">
+          <mxGeometry x="30" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-14" target="oYOYngX_mJQu14mk90Mx-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-41" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="880" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-43" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-42">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-44" value="-------------------------------------------------------------------------------------------------------------------------------------------------------正文-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-42">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-45" value="配图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-42">
+          <mxGeometry x="70" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-46" value="第三个百科" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="880" width="280" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-50" value="第三个课后题" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="100" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-51" value="答对得1分&lt;div&gt;答错或者跳过得0分&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="190" y="135" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-52" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="30" y="55" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oYOYngX_mJQu14mk90Mx-47" source="oYOYngX_mJQu14mk90Mx-54" target="oYOYngX_mJQu14mk90Mx-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="85" />
+              <mxPoint x="120" y="155" />
+              <mxPoint x="83" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-54" value="问题？&lt;div&gt;A:XXX&lt;/div&gt;&lt;div&gt;B:XXX&lt;/div&gt;&lt;div&gt;C:XXX&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-55" value="答题结果：是否正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="26.25" y="210" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-56" value="触摸选择选项" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-47">
+          <mxGeometry x="30" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-43" target="oYOYngX_mJQu14mk90Mx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-58" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="1290" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-60" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-59">
+          <mxGeometry width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-61" value="-------------------------------------------------------------------------------------------------------------------------------------------------------正文-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------" style="whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-59">
+          <mxGeometry x="25" y="30" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-62" value="配图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="oYOYngX_mJQu14mk90Mx-59">
+          <mxGeometry x="70" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-60" target="oYOYngX_mJQu14mk90Mx-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-64" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-31" target="oYOYngX_mJQu14mk90Mx-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="820" />
+              <mxPoint x="205" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-66" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-48" target="oYOYngX_mJQu14mk90Mx-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="1240" />
+              <mxPoint x="205" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-68" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-70" target="oYOYngX_mJQu14mk90Mx-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="1670" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-70" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1290" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-71" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1320" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-72" value="答对得1分&lt;div&gt;答错或者跳过得0分&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-73" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1345" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oYOYngX_mJQu14mk90Mx-75" target="oYOYngX_mJQu14mk90Mx-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="1375" />
+              <mxPoint x="570" y="1445" />
+              <mxPoint x="533" y="1445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-75" value="问题？&lt;div&gt;A:XXX&lt;/div&gt;&lt;div&gt;B:XXX&lt;/div&gt;&lt;div&gt;C:XXX&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-76" value="答题结果：是否正确" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476.25" y="1500" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-77" value="触摸选择选项" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-78" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1290" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-79" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1320" width="115" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-80" value="显示最终成绩，汇总每项课后题的成绩" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="847.5" y="1360" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oYOYngX_mJQu14mk90Mx-81" value="触摸上滑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
