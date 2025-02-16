@@ -1,52 +1,52 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1967" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2afh0vamuKvVCpJDWWYm-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-96" target="2afh0vamuKvVCpJDWWYm-97">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-96" target="2afh0vamuKvVCpJDWWYm-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-96" value="开始封面首页" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-96" value="开始封面首页" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-97" target="2afh0vamuKvVCpJDWWYm-100">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-97" target="2afh0vamuKvVCpJDWWYm-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-97" value="第一个百科知识&lt;div&gt;内容为母乳喂养技巧&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-97" value="第一个百科知识&lt;div&gt;内容为母乳喂养技巧&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-99" value="向上滑动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-99" value="向上滑动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-100" target="2afh0vamuKvVCpJDWWYm-103">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-100" target="2afh0vamuKvVCpJDWWYm-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-100" value="第一个问答题&lt;div&gt;0~28天新生儿多久喂一次奶&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-100" value="第一个问答题&lt;div&gt;0~28天新生儿多久喂一次奶&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-102" value="触摸向上滑动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-102" value="触摸向上滑动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-103" target="2afh0vamuKvVCpJDWWYm-105">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-103" target="2afh0vamuKvVCpJDWWYm-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-103" target="2afh0vamuKvVCpJDWWYm-108">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-103" target="2afh0vamuKvVCpJDWWYm-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-103" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-103" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-105" target="2afh0vamuKvVCpJDWWYm-113">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-105" target="2afh0vamuKvVCpJDWWYm-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-105" value="第二个百科&lt;div&gt;婴儿的三种反射&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-105" value="第二个百科&lt;div&gt;婴儿的三种反射&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-107" value="不回答触摸上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-107" value="不回答触摸上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-108" target="2afh0vamuKvVCpJDWWYm-105">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-108" target="2afh0vamuKvVCpJDWWYm-105">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="480" as="targetPoint" />
             <Array as="points">
@@ -54,114 +54,114 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-108" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-108" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-110" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-110" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="800" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-112" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-112" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="870" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-113" target="2afh0vamuKvVCpJDWWYm-115">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-113" target="2afh0vamuKvVCpJDWWYm-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-113" value="第二个问答题&lt;div&gt;母乳喂养需要婴儿具有哪些反射作为基础&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-113" value="第二个问答题&lt;div&gt;母乳喂养需要婴儿具有哪些反射作为基础&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-115" target="2afh0vamuKvVCpJDWWYm-120">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-115" target="2afh0vamuKvVCpJDWWYm-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-115" target="2afh0vamuKvVCpJDWWYm-124">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-115" target="2afh0vamuKvVCpJDWWYm-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-126" value="回答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2afh0vamuKvVCpJDWWYm-125">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-126" value="回答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="2afh0vamuKvVCpJDWWYm-125">
           <mxGeometry x="-0.0182" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-115" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-115" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-119" value="不回答触摸上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-119" value="不回答触摸上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-120" target="2afh0vamuKvVCpJDWWYm-131">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-120" target="2afh0vamuKvVCpJDWWYm-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-120" value="第三则百科&lt;div&gt;关于婴幼儿碘需求与补充&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-120" value="第三则百科&lt;div&gt;关于婴幼儿碘需求与补充&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-124" target="2afh0vamuKvVCpJDWWYm-120">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-124" target="2afh0vamuKvVCpJDWWYm-120">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-20" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-124" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-124" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-129" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-129" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="10" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-131" target="2afh0vamuKvVCpJDWWYm-133">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-131" target="2afh0vamuKvVCpJDWWYm-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-131" value="第三个问答题&lt;div&gt;关于0~6个月婴儿的碘摄入量为多少&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-131" value="第三个问答题&lt;div&gt;关于0~6个月婴儿的碘摄入量为多少&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="470" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-133" target="2afh0vamuKvVCpJDWWYm-136">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-133" target="2afh0vamuKvVCpJDWWYm-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-133" target="2afh0vamuKvVCpJDWWYm-141">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-133" target="2afh0vamuKvVCpJDWWYm-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-133" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-133" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="690" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-136" target="2afh0vamuKvVCpJDWWYm-141">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-136" target="2afh0vamuKvVCpJDWWYm-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-136" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-136" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="900" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-138" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-138" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="800" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-139" value="不回答上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-139" value="不回答上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="610" y="740" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-141" target="2afh0vamuKvVCpJDWWYm-143">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-141" target="2afh0vamuKvVCpJDWWYm-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-141" value="第四个百科&lt;div&gt;13~24月龄幼儿饮食安排相关&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-141" value="第四个百科&lt;div&gt;13~24月龄幼儿饮食安排相关&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="670" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-143" target="2afh0vamuKvVCpJDWWYm-145">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-143" target="2afh0vamuKvVCpJDWWYm-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-143" value="第四个问答题&lt;div&gt;13~24月龄幼儿哪个时段应该给幼儿提供母乳或配方奶＋辅食&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-143" value="第四个问答题&lt;div&gt;13~24月龄幼儿哪个时段应该给幼儿提供母乳或配方奶＋辅食&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="470" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-145" target="2afh0vamuKvVCpJDWWYm-147">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-145" target="2afh0vamuKvVCpJDWWYm-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-145" target="2afh0vamuKvVCpJDWWYm-156">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-145" target="2afh0vamuKvVCpJDWWYm-156">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-145" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-145" value="是否回答" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="230" y="810" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-147" target="2afh0vamuKvVCpJDWWYm-156">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="2afh0vamuKvVCpJDWWYm-147" target="2afh0vamuKvVCpJDWWYm-156">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="1010" as="targetPoint" />
             <Array as="points">
@@ -169,22 +169,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-147" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-147" value="显示选中答案和是否正确" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-80" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-149" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-149" value="回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="90" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-152" value="不回答上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-152" value="不回答上滑跳过进入下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="140" y="920" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-156" value="显示总分数结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-156" value="显示总分数结束" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="970" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-159" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-159" value="触摸上滑下一则百科" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="890" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2afh0vamuKvVCpJDWWYm-160" value="触摸上滑进入总分统计页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2afh0vamuKvVCpJDWWYm-160" value="触摸上滑进入总分统计页面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-10" y="970" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
